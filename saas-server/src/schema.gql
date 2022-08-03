@@ -1,0 +1,97 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type _8KAnalysisType {
+  date: String
+  sentence: String
+  sentiment: String
+}
+
+type _8k {
+  id: ID
+  _0: [_8KAnalysisType!]
+  _1: [_8KAnalysisType!]
+  _2: [_8KAnalysisType!]
+  _3: [_8KAnalysisType!]
+  _4: [_8KAnalysisType!]
+}
+
+type CompanyFeatures {
+  ARR: String
+  CashAndCashEquivalents: String
+  CostOfSales: String
+  GAAPRevenue: String
+  Goodwill: String
+  GrossProfit: String
+  GrossPropertyAndEquipment: String
+  MRR: String
+  MarketableSecurities: String
+  NetIncome: String
+  NetLoss: String
+  NonGAAPEarnings: String
+  OperatingIncome: String
+  PropertyAndEquipmentNet: String
+  RecurringRevenue: String
+  Revenues: String
+  SalesAndMarketing: String
+  SharesOutstanding: String
+  StockPrice: String
+  TotalAssets: String
+  TotalCurrentAssets: String
+  TotalCurrentLiabilities: String
+  TotalDebt: String
+  TotalEquity: String
+  TotalOperatingExpenses: String
+  TotalStockholdersEquity: String
+}
+
+type CompanySecFiling {
+  name: String
+  url: String
+}
+
+type _10q {
+  id: ID
+  DocURL: String
+  FilingDate: String
+  FilingForDate: String
+  features: CompanyFeatures
+  sec_filing: [CompanySecFiling!]
+}
+
+type _10k {
+  id: ID
+  DocURL: String
+  FilingDate: String
+  FilingForDate: String
+  features: CompanyFeatures
+  sec_filing: [CompanySecFiling!]
+}
+
+type ScoreObject {
+  year: String
+  score: Float
+}
+
+type CompanyType {
+  id: ID!
+  Address: String
+  CompanyName: String
+  FaxNumber: String
+  HoldingType: String
+  PhoneNumber: String
+  URL: String
+  IPODate: String
+  exchange: String
+  ticker: String
+  _10k: [_10k!]
+  _10q: [_10q!]
+  _8k: [_8k!]
+  score: [ScoreObject!]
+}
+
+type Query {
+  getAllCompanies: [CompanyType!]!
+  getCompanyByCIK(cik: String!): CompanyType!
+}
