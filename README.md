@@ -5,4 +5,4 @@ Links to original repositories are
 
 1. https://github.com/Web-Team-IITI-Gymkhana/data-bot 
 2. https://github.com/Web-Team-IITI-Gymkhana/saas-client
-3. https://github.com/Web-Team-IITI-Gymkhana/gymkhana_server
+3. https://github.com/Web-Team-IITI-Gymkhana/saas-server
