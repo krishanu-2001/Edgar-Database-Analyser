@@ -1,0 +1,3361 @@
+{
+    "1459417": {
+        "CompanyName": "2U Inc",
+        "URL": "https://2u.com/",
+        "Address": "7900 Harkins Rd   LANHAM MARYLAND 20706-1359 United States ",
+        "PhoneNumber": "13018924350",
+        "HoldingType": "Public",
+        "IPODate": "2014-03-28T04:00:00Z",
+        "FaxNumber": "NaN",
+        "Ticker": "ZM",
+        "Exchange": "NSM",
+        "_10k": {
+            "2021": {
+                "features": {
+                    "CashAndCashEquivalents": 232932000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 393852000.0,
+                    "TotalAssets": 2109006000.0,
+                    "PropertyAndEquipmentNet": 48650000.0,
+                    "Goodwill": 834539000.0,
+                    "TotalCurrentLiabilities": 333507000.0,
+                    "SharesOutstanding": 75754663.0,
+                    "TotalStockholdersEquity": 1735628000.0,
+                    "TotalEquity": 2109006000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -194766000.0,
+                    "GrossPropertyAndEquipment": 89832000.0,
+                    "StockPrice": 16.14,
+                    "SalesAndMarketing": 456096000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 945682000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -167438000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2022-03-01",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/twou-20211231.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R1.htm"
+                    },
+                    {
+                        "name": "Audit_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R2.htm"
+                    },
+                    {
+                        "name": "Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R3.htm"
+                    },
+                    {
+                        "name": "Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R4.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R5.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R6.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statement_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R7.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R8.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R9.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R10.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R11.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R12.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R13.htm"
+                    },
+                    {
+                        "name": "Other_Balance_Sheet_Details",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R14.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R15.htm"
+                    },
+                    {
+                        "name": "Other_Income_(Expense)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R16.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R17.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R18.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R19.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R20.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R21.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R22.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R23.htm"
+                    },
+                    {
+                        "name": "Retirement_Plan",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R24.htm"
+                    },
+                    {
+                        "name": "Subsequent_Events",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R25.htm"
+                    },
+                    {
+                        "name": "Schedule_II_-_Valuation_and_Qualifying_Accounts",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R26.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R27.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R28.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R29.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R30.htm"
+                    },
+                    {
+                        "name": "Other_Balance_Sheet_Details_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R31.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R32.htm"
+                    },
+                    {
+                        "name": "Other_Income_(Expense)_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R33.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R34.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R35.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R36.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R37.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R38.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R39.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R40.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R41.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R42.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R43.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Estimated_Fair_Value_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R44.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Pro_Forma_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R45.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R46.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Intangible_Assets_-_Goodwill_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R47.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Intangible_Assets_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R48.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Intangible_Assets_-_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R49.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Intangible_Assets_-_Estimated_Future_Amortization_Expense_and_License_agreement_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R50.htm"
+                    },
+                    {
+                        "name": "Other_Balance_Sheet_Details_-_Accounts_Payable_and_Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R51.htm"
+                    },
+                    {
+                        "name": "Other_Balance_Sheet_Details_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R52.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_-_Future_Minimum_Payments_Due_to_University_Clients_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R53.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R54.htm"
+                    },
+                    {
+                        "name": "Other_Income_(Expense)_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R55.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R56.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R57.htm"
+                    },
+                    {
+                        "name": "Leases_-_Maturities_of_Operating_Lease_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R58.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R59.htm"
+                    },
+                    {
+                        "name": "Debt_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R60.htm"
+                    },
+                    {
+                        "name": "Debt_-_Future_Principal_Payments_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R61.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Other_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R62.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Components_of_income_tax_(provision)_benefit_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R63.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Statutory_federal_income_tax_rate_and_the_effective_tax_rate_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R64.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Components_of_deferred_tax_assets_and_liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R65.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Carryforwards_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R66.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Common_Stock_and_Stock-based_Compensation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R67.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R68.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Employee_Stock_Purchase_Plan_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R69.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock-based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R70.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Restricted_and_Performance_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R71.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Fair_Value_Assumptions_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R72.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R73.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R74.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R75.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Segment_Results_of_Operations_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R76.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Reconciliation_of_Net_Loss_to_Total_Segment_Profitability_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R77.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R78.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Trade_Accounts_Receivable_and_Contract_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R79.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Change_in_Provision_for_Credit_Losses_for_Trade_Receivables_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R80.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Other_Receivables_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R81.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R82.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Change_in_Provision_for_Credit_Losses_for_Other_Receivables_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R83.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Other_Receivables_Credit_Quality_Indicators_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R84.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Contract_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R85.htm"
+                    },
+                    {
+                        "name": "Retirement_Plan_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R86.htm"
+                    },
+                    {
+                        "name": "Subsequent_Events_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R87.htm"
+                    },
+                    {
+                        "name": "Schedule_II_-_Valuation_and_Qualifying_Accounts_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941722000004/R88.htm"
+                    }
+                ]
+            },
+            "2020": {
+                "features": {
+                    "CashAndCashEquivalents": 500629000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 604882000.0,
+                    "TotalAssets": 1544264000.0,
+                    "PropertyAndEquipmentNet": 52734000.0,
+                    "Goodwill": 415830000.0,
+                    "TotalCurrentLiabilities": 237369000.0,
+                    "SharesOutstanding": 72451521.0,
+                    "TotalStockholdersEquity": 1646574000.0,
+                    "TotalEquity": 1544264000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -37657000.0,
+                    "GrossPropertyAndEquipment": 87721000.0,
+                    "StockPrice": 40.9,
+                    "SalesAndMarketing": 390174000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 774533000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -30053000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2021-02-25",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/twou-20201231.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R1.htm"
+                    },
+                    {
+                        "name": "Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R2.htm"
+                    },
+                    {
+                        "name": "Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R3.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R4.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R5.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statement_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R6.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R9.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R10.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R11.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R12.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_and_Deferred_Costs",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R13.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R14.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R15.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R16.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R17.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R18.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R19.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R20.htm"
+                    },
+                    {
+                        "name": "Retirement_Plan",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R21.htm"
+                    },
+                    {
+                        "name": "Quarterly_Financial_Information_(Unaudited)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R22.htm"
+                    },
+                    {
+                        "name": "Schedule_II_-_Valuation_and_Qualifying_Accounts",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R23.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R24.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R25.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R26.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R27.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R28.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_and_Deferred_Costs_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R29.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R30.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R31.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R32.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R33.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R34.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R35.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R36.htm"
+                    },
+                    {
+                        "name": "Quarterly_Financial_Information_(Unaudited)_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R37.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R38.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R39.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_-_Change_in_Provision_for_Credit_Losses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R40.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R41.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Estimated_Fair_Value_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R42.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R43.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Goodwill_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R44.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R45.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R46.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_and_License_agreement_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R47.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_and_Deferred_Costs_-_Accounts_Payable_and_Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R48.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_and_Deferred_Costs_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R49.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_-_Future_Minimum_Payments_Due_to_University_Clients_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R50.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R51.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R52.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R53.htm"
+                    },
+                    {
+                        "name": "Leases_-_Maturities_of_Operating_Lease_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R54.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R55.htm"
+                    },
+                    {
+                        "name": "Debt_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R56.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Other_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R57.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Components_of_income_tax_(provision)_benefit_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R58.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Statutory_federal_income_tax_rate_and_the_effective_tax_rate_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R59.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Components_of_deferred_tax_assets_and_liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R60.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Carryforwards_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R61.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Common_Stock_and_Stock-based_Compensation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R62.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R63.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock-based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R64.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Fair_Value_Assumptions_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R65.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Restricted_and_Performance_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R66.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R67.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Employee_Stock_Purchase_Plan_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R68.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R69.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R70.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Segment_Results_of_Operations_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R71.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Reconciliation_of_Net_Loss_to_Total_Segment_Profitability_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R72.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R73.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Trade_Accounts_Receivable_and_Contract_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R74.htm"
+                    },
+                    {
+                        "name": "Retirement_Plan_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R75.htm"
+                    },
+                    {
+                        "name": "Quarterly_Financial_Information_(Unaudited)_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R76.htm"
+                    },
+                    {
+                        "name": "Schedule_II_-_Valuation_and_Qualifying_Accounts_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000003/R77.htm"
+                    }
+                ]
+            },
+            "2019": {
+                "features": {
+                    "CashAndCashEquivalents": 170593000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 260948000.0,
+                    "TotalAssets": 1186830000.0,
+                    "PropertyAndEquipmentNet": 57643000.0,
+                    "Goodwill": 425346000.0,
+                    "TotalCurrentLiabilities": 155954000.0,
+                    "SharesOutstanding": 63569109.0,
+                    "TotalStockholdersEquity": 1197379000.0,
+                    "TotalEquity": 1186830000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -21554000.0,
+                    "GrossPropertyAndEquipment": 81942000.0,
+                    "StockPrice": 19.81,
+                    "SalesAndMarketing": 342395000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 33.9,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -24419000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2020-02-28",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/a2u201910-k.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "COVER_PAGE",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R1.htm"
+                    },
+                    {
+                        "name": "Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R2.htm"
+                    },
+                    {
+                        "name": "Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R3.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R4.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R5.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statement_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R6.htm"
+                    },
+                    {
+                        "name": "Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R9.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R10.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R11.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R12.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_Accrued_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R13.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R14.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R15.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R16.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R17.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R18.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R19.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R20.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R21.htm"
+                    },
+                    {
+                        "name": "Retirement_Plan",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R22.htm"
+                    },
+                    {
+                        "name": "Quarterly_Financial_Information_(Unaudited)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R23.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R24.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R25.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R26.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R27.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R28.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R29.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R30.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R31.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R32.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R33.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R34.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R35.htm"
+                    },
+                    {
+                        "name": "Quarterly_Financial_Information_(Unaudited)_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R36.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R37.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R38.htm"
+                    },
+                    {
+                        "name": "Business_Combination_Business_Combination_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R39.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Estimated_Fair_Value_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R40.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Pro_Forma_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R41.htm"
+                    },
+                    {
+                        "name": "Property_and_Equipment,_Net_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R42.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Goodwill_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R43.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R44.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R45.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_and_License_agreement_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R46.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R47.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_-_Future_Minimum_Payments_Due_to_University_Clients_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R48.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R49.htm"
+                    },
+                    {
+                        "name": "Leases_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R50.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R51.htm"
+                    },
+                    {
+                        "name": "Leases_-_Maturities_of_Operating_Lease_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R52.htm"
+                    },
+                    {
+                        "name": "Leases_-_Future_Minimum_Lease_Payments_for_Operating_Leases_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R53.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R54.htm"
+                    },
+                    {
+                        "name": "Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R55.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Other_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R56.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Components_of_income_tax_(provision)_benefit_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R57.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_-_Carryforwards_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R58.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R59.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R60.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Stock_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R61.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Employee_Stock_Purchase_Plan_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R62.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R63.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Stock-Based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R64.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R65.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R66.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Segment_Results_of_Operations_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R67.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Reconciliation_of_Net_Loss_to_Total_Segment_Profitability_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R68.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R69.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Trade_Accounts_Receivable_and_Contract_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R70.htm"
+                    },
+                    {
+                        "name": "Retirement_Plan_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R71.htm"
+                    },
+                    {
+                        "name": "Quarterly_Financial_Information_(Unaudited)_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000003/R72.htm"
+                    }
+                ]
+            }
+        },
+        "_10q": {
+            "2021_3": {
+                "features": {
+                    "CashAndCashEquivalents": 934348000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 1115102000.0,
+                    "TotalAssets": 2033482000.0,
+                    "PropertyAndEquipmentNet": 52734000.0,
+                    "Goodwill": 415830000.0,
+                    "TotalCurrentLiabilities": 300376000.0,
+                    "SharesOutstanding": 74749601.0,
+                    "TotalStockholdersEquity": 1714647000.0,
+                    "TotalEquity": 2033482000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -21831000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 29.54,
+                    "SalesAndMarketing": 346181000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 702058000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -43533000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2021-11-09",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/twou-20210930.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R9.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R10.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R11.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R12.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R13.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R14.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R15.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R16.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R17.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R18.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R19.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R20.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R21.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R22.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R23.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R24.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R25.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R26.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R27.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R28.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R29.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R30.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R31.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R32.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R33.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_-_Accounts_Payable_and_Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R34.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R35.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R36.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R37.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R38.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R39.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R40.htm"
+                    },
+                    {
+                        "name": "Debt_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R41.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R42.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Common_Stock_and_Stock-based_Compensation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R43.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock-based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R44.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Restricted_and_Performance_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R45.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Fair_Value_Assumptions_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R46.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Option_Activity_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R47.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Option_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R48.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R49.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R50.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Segment_Results_of_Operations_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R51.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Reconciliation_of_Net_Loss_to_Total_Segment_Profitability_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R52.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R53.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R54.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Trade_Accounts_Receivable_and_Contract_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R55.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Change_in_Provision_for_Credit_Losses_for_Trade_Receivables_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R56.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R57.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Other_Receivables_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R58.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000014/R59.htm"
+                    }
+                ]
+            },
+            "2021_2": {
+                "features": {
+                    "CashAndCashEquivalents": 953107000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 1135623000.0,
+                    "TotalAssets": 2049257000.0,
+                    "PropertyAndEquipmentNet": 52734000.0,
+                    "Goodwill": 417357000.0,
+                    "TotalCurrentLiabilities": 291964000.0,
+                    "SharesOutstanding": 74507853.0,
+                    "TotalStockholdersEquity": 1688223000.0,
+                    "TotalEquity": 2049257000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -21831000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 43.4,
+                    "SalesAndMarketing": 227881000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 469682000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -37091000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2021-07-29",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/twou-20210630.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R9.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R10.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R11.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R12.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R13.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R14.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R15.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R16.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R17.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R18.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R19.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R20.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R21.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R22.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R23.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R24.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R25.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R26.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R27.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R28.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R29.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R30.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R31.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R32.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R33.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_-_Accounts_Payable_and_Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R34.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R35.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R36.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R37.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R38.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R39.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R40.htm"
+                    },
+                    {
+                        "name": "Debt_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R41.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R42.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Common_Stock_and_Stock-based_Compensation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R43.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock-based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R44.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Restricted_and_Performance_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R45.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Fair_Value_Assumptions_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R46.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Option_Activity_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R47.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Option_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R48.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R49.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R50.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Segment_Results_of_Operations_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R51.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Reconciliation_of_Net_Loss_to_Total_Segment_Profitability_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R52.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R53.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R54.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Trade_Accounts_Receivable_and_Contract_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R55.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Change_in_Provision_for_Credit_Losses_for_Trade_Receivables_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R56.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R57.htm"
+                    },
+                    {
+                        "name": "Receivables_and_Contract_Liabilities_-_Other_Receivables_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R58.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000012/R59.htm"
+                    }
+                ]
+            },
+            "2021_1": {
+                "features": {
+                    "CashAndCashEquivalents": 500629000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 637570000.0,
+                    "TotalAssets": 1555513000.0,
+                    "PropertyAndEquipmentNet": 52734000.0,
+                    "Goodwill": 415830000.0,
+                    "TotalCurrentLiabilities": 275200000.0,
+                    "SharesOutstanding": 74038208.0,
+                    "TotalStockholdersEquity": 1662439000.0,
+                    "TotalEquity": 1555513000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -45564000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 39.25,
+                    "SalesAndMarketing": 113237000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 232473000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -37132000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2021-04-28",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/twou-20210331.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R9.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R10.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R11.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R12.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R13.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R14.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R15.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R16.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R17.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R18.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R19.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R20.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R21.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R22.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R23.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R24.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R25.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R26.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R27.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R28.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R29.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R30.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R31.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_-_Accounts_Payable_and_Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R32.htm"
+                    },
+                    {
+                        "name": "Accrued_and_Deferred_Expenses_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R33.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R34.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R35.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R36.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R37.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R38.htm"
+                    },
+                    {
+                        "name": "Debt_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R39.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R40.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Common_Stock_and_Stock-based_Compensation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R41.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock-based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R42.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Fair_Value_Assumptions_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R43.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Restricted_and_Performance_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R44.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Option_Activity_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R45.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Option_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R46.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R47.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R48.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Segment_Results_of_Operations_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R49.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Reconciliation_of_Net_Loss_to_Total_Segment_Profitability_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R50.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R51.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Trade_Accounts_Receivable_and_Contract_Liabilities_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R52.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Change_in_Provision_for_Credit_Losses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R53.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R54.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R55.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941721000009/R56.htm"
+                    }
+                ]
+            },
+            "2020_3": {
+                "features": {
+                    "CashAndCashEquivalents": 481329000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 635590000.0,
+                    "TotalAssets": 1552778000.0,
+                    "PropertyAndEquipmentNet": 57643000.0,
+                    "Goodwill": 418350000.0,
+                    "TotalCurrentLiabilities": 246956000.0,
+                    "SharesOutstanding": 71294706.0,
+                    "TotalStockholdersEquity": 1629565000.0,
+                    "TotalEquity": 1552778000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -21554000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 36.85,
+                    "SalesAndMarketing": 297624000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 559239000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -45907000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2020-10-27",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/twou-20200930.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R9.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R10.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R11.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R12.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R13.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R14.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R15.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R16.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R17.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R18.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R19.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R20.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R21.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R22.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R23.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R24.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R25.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R26.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R27.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R28.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R29.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R30.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R31.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_-_Change_in_Provision_for_Credit_Losses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R32.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_-_Convertible_Senior_Notes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R33.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R34.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Pro_Forma_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R35.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R36.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R37.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R38.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R39.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R40.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R41.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R42.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R43.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R44.htm"
+                    },
+                    {
+                        "name": "Debt_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R45.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R46.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Common_Stock_and_Stock-based_Compensation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R47.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock-based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R48.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Restricted_and_Performance_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R49.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R50.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R51.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R52.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Revenue_and_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R53.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R54.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R55.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000012/R56.htm"
+                    }
+                ]
+            },
+            "2020_2": {
+                "features": {
+                    "CashAndCashEquivalents": 194803000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 324989000.0,
+                    "TotalAssets": 1232560000.0,
+                    "PropertyAndEquipmentNet": 57643000.0,
+                    "Goodwill": 418350000.0,
+                    "TotalCurrentLiabilities": 212971000.0,
+                    "SharesOutstanding": 64300599.0,
+                    "TotalStockholdersEquity": 1306483000.0,
+                    "TotalEquity": 1232560000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -21554000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 47.095,
+                    "SalesAndMarketing": 197556000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 358166000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -46040000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2020-07-31",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/twou-20200630.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R9.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R10.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R11.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R12.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R13.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R14.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R15.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R16.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R17.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R18.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R19.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R20.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R21.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R22.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R23.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R24.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R25.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R26.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R27.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R28.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R29.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R30.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R31.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_-_Change_in_Provision_for_Credit_Losses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R32.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_-_Convertible_Senior_Notes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R33.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R34.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Pro_Forma_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R35.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R36.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R37.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R38.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R39.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R40.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R41.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R42.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R43.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R44.htm"
+                    },
+                    {
+                        "name": "Debt_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R45.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R46.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Common_Stock_and_Stock-based_Compensation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R47.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock-based_Compensation_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R48.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Restricted_and_Performance_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R49.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_-_Stock_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R50.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R51.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R52.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Revenue_and_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R53.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R54.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R55.htm"
+                    },
+                    {
+                        "name": "Supplemental_Cash_Flow_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000010/R56.htm"
+                    }
+                ]
+            },
+            "2020_1": {
+                "features": {
+                    "CashAndCashEquivalents": 170593000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 275000000.0,
+                    "TotalAssets": 1186830000.0,
+                    "PropertyAndEquipmentNet": 57643000.0,
+                    "Goodwill": 418350000.0,
+                    "TotalCurrentLiabilities": 203459000.0,
+                    "SharesOutstanding": 63703067.0,
+                    "TotalStockholdersEquity": 1218632000.0,
+                    "TotalEquity": 1186830000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -21554000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 23.75,
+                    "SalesAndMarketing": 99215000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 175479000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -24419000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2020-04-30",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/a2uq1202010-q.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R9.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R10.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R11.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R12.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R13.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R14.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R15.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R16.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R17.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R18.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R19.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R20.htm"
+                    },
+                    {
+                        "name": "Subsequent_Events",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R21.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R22.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_Significant_Accounting_Policies_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R23.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R24.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R25.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R26.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R27.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R28.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R29.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R30.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R31.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R32.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R33.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R34.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_-_Change_in_Provision_for_Credit_Losses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R35.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R36.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Pro_Forma_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R37.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R38.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R39.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R40.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R41.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R42.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R43.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R44.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R45.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R46.htm"
+                    },
+                    {
+                        "name": "-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R47.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R48.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R49.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R50.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R51.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R52.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R53.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R54.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Revenue_and_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R55.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R56.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R57.htm"
+                    },
+                    {
+                        "name": "Subsequent_Events_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941720000006/R58.htm"
+                    }
+                ]
+            },
+            "2019_3": {
+                "features": {
+                    "CashAndCashEquivalents": 449772000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 521680000.0,
+                    "TotalAssets": 1213570000.0,
+                    "PropertyAndEquipmentNet": 56105000.0,
+                    "Goodwill": 425678000.0,
+                    "TotalCurrentLiabilities": 164963000.0,
+                    "SharesOutstanding": 63388705.0,
+                    "TotalStockholdersEquity": 1180298000.0,
+                    "TotalEquity": 1213570000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -9944000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 17.925,
+                    "SalesAndMarketing": 260231000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": 411493000.0,
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -11857000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2019-11-12",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/a2u10-qq32019.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R9.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R10.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R11.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R12.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R13.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R14.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R15.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R16.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R17.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R18.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R19.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R20.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R21.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R22.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R23.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R24.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R25.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R26.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R27.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R28.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R29.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R30.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R31.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R32.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Purchase_Price_Allocation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R33.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Pro_Forma_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R34.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R35.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R36.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R37.htm"
+                    },
+                    {
+                        "name": "Accrued_Expenses_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R38.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R39.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R40.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R41.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R42.htm"
+                    },
+                    {
+                        "name": "Leases_-_Future_Minimum_Lease_Payments_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R43.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R44.htm"
+                    },
+                    {
+                        "name": "-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R45.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R46.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R47.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R48.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R49.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R50.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Employee_Stock_Purchase_Plan_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R51.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R52.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R53.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Revenue_and_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R54.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R55.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000008/R56.htm"
+                    }
+                ]
+            },
+            "2019_2": {
+                "features": {
+                    "CashAndCashEquivalents": 449772000.0,
+                    "MarketableSecurities": "NaN",
+                    "TotalCurrentAssets": 521680000.0,
+                    "TotalAssets": 1331747000.0,
+                    "PropertyAndEquipmentNet": 57464000.0,
+                    "Goodwill": 488747000.0,
+                    "TotalCurrentLiabilities": 159146000.0,
+                    "SharesOutstanding": 63231376.0,
+                    "TotalStockholdersEquity": 1161321000.0,
+                    "TotalEquity": 1331747000.0,
+                    "GrossProfit": "NaN",
+                    "TotalOperatingExpenses": "NaN",
+                    "NetIncome": -14871000.0,
+                    "GrossPropertyAndEquipment": "NaN",
+                    "StockPrice": 12.8,
+                    "SalesAndMarketing": 166710000.0,
+                    "TotalDebt": "NaN",
+                    "Revenues": "NaN",
+                    "CostOfSales": "NaN",
+                    "OperatingIncome": -21972000.0,
+                    "NetLoss": "NaN",
+                    "RecurringRevenue": "NaN",
+                    "ARR": "NaN",
+                    "GAAPRevenue": "NaN",
+                    "NonGAAPEarnings": "NaN",
+                    "MRR": "NaN",
+                    "FilingDate": "2019-07-30",
+                    "DocURL": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/a2u10-qq22019.htm"
+                },
+                "sec_filing": [
+                    {
+                        "name": "Cover_Page",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R1.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R2.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Balance_Sheets_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R3.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R4.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Operations_and_Comprehensive_Loss_(Parenthetical)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R5.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Changes_in_Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R6.htm"
+                    },
+                    {
+                        "name": "Condensed_Consolidated_Statements_of_Cash_Flows",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R7.htm"
+                    },
+                    {
+                        "name": "Organization",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R8.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R9.htm"
+                    },
+                    {
+                        "name": "Business_Combination",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R10.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R11.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R12.htm"
+                    },
+                    {
+                        "name": "Leases",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R13.htm"
+                    },
+                    {
+                        "name": "Debt",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R14.htm"
+                    },
+                    {
+                        "name": "Income_Taxes",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R15.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R16.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R17.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R18.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R19.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Policies)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R20.htm"
+                    },
+                    {
+                        "name": "Business_Combination_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R21.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R22.htm"
+                    },
+                    {
+                        "name": "Leases_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R23.htm"
+                    },
+                    {
+                        "name": "Debt_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R24.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R25.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R26.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R27.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_(Tables)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R28.htm"
+                    },
+                    {
+                        "name": "Organization_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R29.htm"
+                    },
+                    {
+                        "name": "Significant_Accounting_Policies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R30.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R31.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Purchase_Price_Allocation_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R32.htm"
+                    },
+                    {
+                        "name": "Business_Combination_-_Pro_Forma_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R33.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Amortizable_Intangible_Assets_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R34.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Narrative_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R35.htm"
+                    },
+                    {
+                        "name": "Goodwill_and_Amortizable_Intangible_Assets_-_Estimated_Future_Amortization_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R36.htm"
+                    },
+                    {
+                        "name": "Commitments_and_Contingencies_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R37.htm"
+                    },
+                    {
+                        "name": "Leases_-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R38.htm"
+                    },
+                    {
+                        "name": "Leases_-_Future_Minimum_Lease_Payments_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R39.htm"
+                    },
+                    {
+                        "name": "Leases_-_Lease_Cost_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R40.htm"
+                    },
+                    {
+                        "name": "Leases_-_Operating_Lease_Liabilities_Due_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R41.htm"
+                    },
+                    {
+                        "name": "Debt_-_Long-Term_Debt_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R42.htm"
+                    },
+                    {
+                        "name": "-_Additional_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R43.htm"
+                    },
+                    {
+                        "name": "Income_Taxes_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R44.htm"
+                    },
+                    {
+                        "name": "Stockholders'_Equity_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R45.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Expense_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R46.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Options_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R47.htm"
+                    },
+                    {
+                        "name": "Stock-Based_Compensation_-_Restricted_Stock_Units_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R48.htm"
+                    },
+                    {
+                        "name": "Net_Loss_per_Share_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R49.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Concentration_Risk_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R50.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Revenue_and_Total_Assets_by_Segment_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R51.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Contract_Acquisition_Costs_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R52.htm"
+                    },
+                    {
+                        "name": "Segment_and_Geographic_Information_-_Geographical_Information_(Details)",
+                        "url": "https://www.sec.gov/Archives/edgar/data/1459417/000145941719000006/R53.htm"
+                    }
+                ]
+            }
+        },
+        "_8k": {
+            "2020": {
+                "0": [
+                    {
+                        "sentence": "Pursuant to the indenture, the notes will be convertible at the company\u2019s option into shares of the company\u2019s common stock.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "The notes will be convertible at 2u\u2019s option into shares of 2u\u2019s common stock.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Company to use portion of proceeds from offering to repay all amounts outstanding under term loan.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Pricing of base notes on 20, 2020premium of 100% over last reported sale price of company\u2019s common stock.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Company has used the net proceeds from the offering of base notes to repay all amounts outstanding under the credit facility.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "The company has priced its public offering of 15 million shares of common stock at a price to the public of $24 per share.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "The notes will be convertible into shares of the company\u2019s common stock at an initial conversion rate of 35.3773 shares.",
+                        "sentiment": "Neutral"
+                    }
+                ],
+                "1": [
+                    {
+                        "sentence": "Company used a portion of the proceeds from the sale of base notes to repay obligations under credit agreement.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "The loans are secured by the company\u2019s assets.",
+                        "sentiment": "Neutral"
+                    }
+                ],
+                "2": [
+                    {
+                        "sentence": "Total revenue for the first quarter of 2019 was $510.5 million. costs and expenses rose 56% from first quarter of 2019",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Harsha mokkarala to step down as chief revenue officer of 2u, inc.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Graduate program segment revenue grew 14%, alternative credential segment revenue grew 216%.",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Revenue expected to grow by 26-30% in 2020; adjusted ebitda to turn positive in third quarter.",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Career education expects first-quarter revenue to rise 44%. graduate program segment revenue expected to grow by 14% to $118.5 million",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Career education expects first-quarter revenue to rise 44%",
+                        "sentiment": "Positive"
+                    }
+                ],
+                "3": [
+                    {
+                        "sentence": "Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual results, performance or achievements of the company to be materially different.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual results, performance or achievements of 2u to be materially different.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Risks and uncertainties that could cause actual results to differ include, but are not limited to:",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Company expects to report cash, cash equivalents and restricted cash at march 31, 2020.",
+                        "sentiment": "Neutral"
+                    }
+                ],
+                "4": [
+                    {
+                        "sentence": "Online education company 2u has raised $350m in series a funding.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Issuance of $330.0 million aggregate principal amount of company\u2019s 2.25% convertible notes.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Cash, cash equivalents and restricted cash was $157.5 million as of march 31, 2020.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Cash, cash equivalents and restricted cash rose to $213.0 million from $189.9 million.",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "On 23, 2020, the company issued $330.0 million of notes. initial purchasers exercised their option to purchase an additional $50.0 million of notes.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "$50 million incremental borrowings not to exceed $100 million.",
+                        "sentiment": "Neutral"
+                    }
+                ]
+            },
+            "2021": {
+                "0": [
+                    {
+                        "sentence": "Ursuant to the purchase agreement, edx will contribute substantially all of its assets to edx sub.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Company\u2019s common stock is listed on the new york stock exchange.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Ursuant to the purchase agreement, edx contributed substantially all of its assets to edx sub.",
+                        "sentiment": "Neutral"
+                    }
+                ],
+                "1": [
+                    {
+                        "sentence": "Company borrowed an additional $100 million under its existing senior secured term loan a.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Ursuant to separation, consulting and release agreement, mr. kenigsberg to serve as a consultant until 2, 2024.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Transaction to be funded by existing cash, new $475 million senior secured term loan",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Online university 2u has agreed to be acquired by private equity firm thoma bravo.",
+                        "sentiment": "Neutral"
+                    }
+                ],
+                "2": [
+                    {
+                        "sentence": "Revenue up 35% on strong full-year performance",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Online university 2u reported record revenues for the fourth quarter of 2020.",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Guidance reflects confidence in ability to maintain strong growth.",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "2u is the parent company of edx, a leading global online learning platform.",
+                        "sentiment": "Neutral"
+                    }
+                ],
+                "3": [
+                    {
+                        "sentence": "Online education company 2u reported strong third quarter results.",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Forward-looking statements are based on management\u2019s current expectations and are subject to a number of uncertainties and risks.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "The information in this report, including the exhibits thereto, isfurnished and copyrighted.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Risks and uncertainties that could cause actual results to differ include, but are not limited to:",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual results, performance or achievements of 2u to be materially different.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Factors that could cause actual results to differ materially from expectations include, but are not limited to:",
+                        "sentiment": "Neutral"
+                    }
+                ],
+                "4": [
+                    {
+                        "sentence": "On 28, 2021, 2u entered into new $475 million senior term loan a.",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Cash and cash equivalents rose to $505.1 million from $157.5 million.",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "sentence": "Edx is the education movement for restless learners. together with the majority of the worlds top-ranked universities and industry-leading companies, we bring our community of over 40 million learners world-class education",
+                        "sentiment": "Neutral"
+                    },
+                    {
+                        "sentence": "Cash used in operating activities was negative $7.6 million in the quarter.",
+                        "sentiment": "Negative"
+                    }
+                ]
+            }
+        }
+    }
+}

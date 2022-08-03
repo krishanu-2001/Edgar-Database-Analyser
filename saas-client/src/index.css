@@ -1,0 +1,56 @@
+@import 'antd/dist/antd.css';
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&display=swap');
+
+@import '@fortawesome/fontawesome-svg-core/styles.css';
+:root {
+  --primary: #3547ac;
+  --secondary: #3e54d3;
+  --accent: #060d2a;
+  --background: #f4f7ff;
+  --main: #fff;
+  --header: #1b223d;
+  --disabled: #BDBDBD;
+  --chart-w: 50vw;
+  --chart-h: 24vh;
+  --chart-w-lg: 50vw;
+  --chart-h-lg: 30vh;
+}
+.ant-tabs-nav {
+  @apply border-b-gray-200 border-b-2;
+}
+.ant-tabs-nav .ant-tabs-tab .ant-tabs-tab-btn {
+  @apply text-saas-header font-medium text-sm-base -mb-2 font-sans;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  @apply text-saas-primary;
+}
+
+.ant-tabs-ink-bar {
+  @apply bg-saas-primary;
+}
+
+@layer base {
+  input ::target-text :focus {
+    @apply shadow-none !important;
+  }
+}
+#react-select-3-input:focus-visible {
+  box-shadow: none !important;
+}
+.summary {
+  height: 75vh;
+}
+#react-select-3-input:focus-visible {
+  box-shadow: none !important;
+}
+
+#react-select-5-input:focus-visible {
+  box-shadow: none !important;
+}
