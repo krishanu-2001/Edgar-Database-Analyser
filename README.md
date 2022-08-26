@@ -46,7 +46,7 @@ In a overview of the investability score prediction
 
 ## Libraries/Code sources
 
-Except for the ReChart and Tailwind CSS library for frontend most functionality is written in Vanilla-Js. Python toolkit is created using beautiful soup and sklearn library. 
+Except for the ReChart and Tailwind CSS library for frontend most functionality is written in Vanilla-Js and React-Js. Python toolkit is created using beautiful soup and sklearn library. 
 
 Some icon images have been sourced from Font Awesome 5. The license is at [this link](https://fontawesome.com/license/free). No changes (except scaling) were made to these images.
 
