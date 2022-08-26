@@ -1,32 +1,20 @@
 ### SEC Edgar database analyser
 This is a combined archive which houses all the submodules of project. <br>
 
-Links to original repositories are  
-
-1. https://github.com/Web-Team-IITI-Gymkhana/data-bot 
-2. https://github.com/Web-Team-IITI-Gymkhana/saas-client
-3. https://github.com/Web-Team-IITI-Gymkhana/saas-server
-
-[![prokeys logo](https://i.stack.imgur.com/HrCnC.png)](https://chrome.google.com/webstore/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn)
-
-**Developed by**: Aquila Softworks ([Gaurang Tandon](https://github.com/GaurangTandon), [Jaidev Shriram](http://github.com/jaidev123), [Yoogottam Khandelwal](https://github.com/yoogottamk) and [Varun Singh](https://github.com/iWrote))  
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/56930593/186934249-7ed03a93-1c86-4f01-962b-594871248a14.png"> 
 
 ### UPDATE (May 2020)
-
-Work on this project had come to a halt for quite a long time, and we have now taken the sad decision to suspend all activity on this project (this also includes answering customer queries or fixing critical vulnerabilities if any). We are college students who are caught up in our own collegework and side-projects, and are unfortunately unable to find the time or energy to work on this project anymore. 
-
-I (Gaurang) had originally conceived this project five years ago, and I have appreciated the long term association with this, and the learning I have gained by working on this, as well as by interacting with several valuable customers. To date I have received hundreds of emails, and replied to many of them. Even if I had not replied to your mail, please be assured I had definitely read it but could not reply due to time constraints.
-
-Entire organizations have used this project - which merely started as a side project for me - in their customer service units, and I am more than honored to have started a project that was - at its peak - used by 30k+ users globally. I appreciate all the love and support this project got from all the users, and I am forever thankful to them.
 
 **If you still use ProKeys, do not worry!** It will continue to work as it has worked so far. I own the extension on the Web Store, and I am NOT going to sell this extension off to a third party, since I am aware that this extension handles critical personal user data, and the chances that a third party could potentially sell that data are large.
 
 **Note**: Even though work on this project is halted, we are not giving up the rights to the name on the Web Store. The ProKeys extension still continues to exist on the Web Store. It is still being regularly used by 20k+ users globally. The license terms still remain intact.
 
-![version](https://img.shields.io/chrome-web-store/v/ekfnbpgmmeahnnlpjibofkobpdkifapn.svg?label=version&style=flat-square) ![users](https://img.shields.io/chrome-web-store/users/ekfnbpgmmeahnnlpjibofkobpdkifapn.svg?style=flat-square) ![rating](https://img.shields.io/chrome-web-store/rating/ekfnbpgmmeahnnlpjibofkobpdkifapn.svg?style=flat-square)  
-![deps](https://img.shields.io/librariesio/github/GaurangTandon/ProKeys.svg) ![repo size](https://img.shields.io/github/repo-size/GaurangTandon/ProKeys.svg) ![](https://img.shields.io/github/commit-activity/w/GaurangTandon/ProKeys.svg) ![](https://img.shields.io/github/last-commit/GaurangTandon/ProKeys.svg)  
+![version](https://img.shields.io/badge/version-3.4.1-blue)
+![license](https://img.shields.io/github/license/krishanu-2001/Edgar-Database-Analyser)
+![contributors](https://img.shields.io/badge/contributors-10-brightgreen)  
 
-ProKeys is a completely free, [Google Chrome](https://chrome.google.com/webstore/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) and [Opera](https://addons.opera.com/en/extensions/details/prokeys/?display=en) extension that lets you be productive in online text-related work with its number of features like:
+![stars](https://img.shields.io/badge/stars-3-blue)
+![fork](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 
 [More info on all these in Help section inside the app]
 
@@ -49,6 +37,13 @@ ProKeys is a completely free, [Google Chrome](https://chrome.google.com/webstore
 Except for the feather-weight open-source QuillJS rich text editor, I only utilized vanilla JS for super performance and less app size. Also Eric Meyer's CSS reset stylesheet - public domain - has been used with modifications.
 
 Some icon images have been sourced from Font Awesome 5. The license is at [this link](https://fontawesome.com/license/free). No changes (except scaling) were made to these images.
+
+## References
+Links to original repositories are  
+
+1. https://github.com/Web-Team-IITI-Gymkhana/data-bot 
+2. https://github.com/Web-Team-IITI-Gymkhana/saas-client
+3. https://github.com/Web-Team-IITI-Gymkhana/saas-server
 
 ## Technical details
 
