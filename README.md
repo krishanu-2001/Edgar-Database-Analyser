@@ -3,11 +3,26 @@ This is a combined archive which houses all the submodules of project. <br>
 
 <img width="247" alt="image" src="https://user-images.githubusercontent.com/56930593/186934249-7ed03a93-1c86-4f01-962b-594871248a14.png"> 
 
-### UPDATE (May 2020)
+### UPDATE (Mar 2022)
 
-**If you still use ProKeys, do not worry!** It will continue to work as it has worked so far. I own the extension on the Web Store, and I am NOT going to sell this extension off to a third party, since I am aware that this extension handles critical personal user data, and the chances that a third party could potentially sell that data are large.
+**v3.0**: Develop multi-compare and charts.
 
-**Note**: Even though work on this project is halted, we are not giving up the rights to the name on the Web Store. The ProKeys extension still continues to exist on the Web Store. It is still being regularly used by 20k+ users globally. The license terms still remain intact.
+**v3.1**: Predict investability score (95% similarity with Zachs rank). 
+
+**v2.1**: Decided to use regression boosting (XGboost) for predicting company score.
+
+**v2.0**: Decided to use GraphQl for backend services to limit endpoints.
+
+### UPDATE (Feb 2022)
+
+**v1.2**: Develop web scraping tool for Extracting and transforming data.
+
+**v1.2**: Use firebase NoSQL to store the model data.
+
+**v1.1**: Decided on financial metrics to use. EBIDTA, ROI, Magic number, Customer Acquision Cost ...
+
+**v1.0**: Build user interface on React and viteJs.
+
 
 ![version](https://img.shields.io/badge/version-3.4.1-blue)
 ![license](https://img.shields.io/github/license/krishanu-2001/Edgar-Database-Analyser)
