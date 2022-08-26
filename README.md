@@ -60,13 +60,14 @@ Each submodule has its own defined technology specification as a README.md file.
 First of all, thanks for your contribution! Every small bit of it counts! You can:
 
 1.  [Create a new issue](https://github.com/krishanu-2001/Edgar-Database-Analyser/issues/new) for bugs, feature requests, and enhancements.
-3.  Star the repo, fork the repo, make changes, and submit a pull request, describing the changes made.
-4.  We would love to get to know more financial metrics and optimization techniques to explore. 
+3.  Fork the repo, make changes, and submit a pull request, describing the changes made.
+4.  We would love to get to know more financial metrics and optimization techniques to explore.   
 5.  Finally, utilize the Filing analyser for understanding the SAAS market and curating your portfolio!
+6.  Do star the repo if you like it!
 
 ## Development
 
-To setup the user interface repo, clone it, `cd` into it, and then run `npm install`. To start the server `npm run dev`. 
+To setup the user interface repo, clone it, `cd` into it, and then run `npm install`. To start the server `npm run dev`.  
 To setup the data-scraping repo. Create a firebase account. Clone the repo, `cd` into it, and then run `webscrape.py`. 
 
 **Contact us** - krishanu21saini@gmail.com - to discuss anything related to the above if you want to.
