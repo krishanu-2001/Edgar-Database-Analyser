@@ -36,6 +36,12 @@ This is a combined archive which houses all the submodules of project. <br>
 
 <img width="677" alt="image" src="https://user-images.githubusercontent.com/56930593/186957748-75615d1e-00d3-4077-b313-06fa42cf8422.png">
 
+## Investability score
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/56930593/186960971-c3b86187-ef10-4b41-87e8-e7df7eb3f057.png">
+
+In a overview of the investability score prediction  
+
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/56930593/186961186-3c0e8ac2-bfbe-48bf-b3be-9f6e8c2b50dc.png">
 
 
 ## Libraries/Code sources
