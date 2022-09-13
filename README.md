@@ -7,7 +7,7 @@ This is a combined archive which houses all the submodules of project. <br>
 ![version](https://img.shields.io/badge/version-3.4.1-blue)
 ![license](https://img.shields.io/github/license/krishanu-2001/Edgar-Database-Analyser)
 ![contributors](https://img.shields.io/badge/contributors-10-brightgreen)
-![stars](https://img.shields.io/badge/stars-3-blue)
+![stars](https://img.shields.io/badge/stars-4-blue)
 ![fork](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 
 ### UPDATE (Mar 2022)
