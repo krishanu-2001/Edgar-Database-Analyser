@@ -77,3 +77,7 @@ To setup the user interface repo, clone it, `cd` into it, and then run `npm inst
 To setup the data-scraping repo. Create a firebase account. Clone the repo, `cd` into it, and then run `webscrape.py`. 
 
 **Contact us** - krishanu21saini@gmail.com - to discuss anything related to the above if you want to.
+
+## Contributors
+Out team: fluorspar20, akashg3627, pineapple45, neelanshu2001, gjain-7, Krish2208, COOLMudi, MihirK1212, Niyati
+
